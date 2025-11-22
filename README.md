@@ -31,7 +31,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swaroopm18&layout=compact&theme=tokyonight&cache_seconds=60"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swaroopm18&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swaroopm18&layout=compact&theme=tokyonight"/>
 </p>
 
 
